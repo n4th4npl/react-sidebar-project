@@ -1,0 +1,324 @@
+{
+  "events": [
+    {
+      "title": "Music Festival 1",
+      "location": "Central Park",
+      "time": "2023-07-15",
+      "place": "Main Stage",
+      "cost": "$25.00",
+      "description": "Join us for a day of live music in Central Park! A lineup of amazing artists awaits you.",
+      "category": "Music",
+      "tags": ["Festival", "Live Music", "Outdoor Event"]
+    },
+    {
+      "title": "Art Exhibition 1",
+      "location": "Art Gallery",
+      "time": "2023-08-10",
+      "place": "Gallery Hall",
+      "cost": "Free Admission",
+      "description": "Explore the world of contemporary art at our exclusive exhibition.",
+      "category": "Art",
+      "tags": ["Exhibition", "Contemporary Art"]
+    },
+    {
+      "title": "Tech Conference 1",
+      "location": "Tech Center",
+      "time": "2023-09-20",
+      "place": "Conference Hall A",
+      "cost": "$199.99",
+      "description": "Stay updated on the latest tech trends and network with industry experts.",
+      "category": "Technology",
+      "tags": ["Conference", "Tech Trends", "Networking"]
+    },
+    {
+      "title": "Food Festival 1",
+      "location": "Downtown Square",
+      "time": "2023-10-05",
+      "place": "Food Court",
+      "cost": "$10.00 (Tasting Pass)",
+      "description": "Sample a variety of delicious dishes from local chefs at our annual food festival.",
+      "category": "Food",
+      "tags": ["Festival", "Food Tasting", "Local Chefs"]
+    },
+    {
+      "title": "Fitness Workshop 1",
+      "location": "Fitness Studio",
+      "time": "2023-11-12",
+      "place": "Studio 3",
+      "cost": "$35.00",
+      "description": "Get fit and stay healthy with our fitness experts. All fitness levels welcome!",
+      "category": "Fitness",
+      "tags": ["Workshop", "Health", "Fitness Levels"]
+    },
+    {
+      "title": "Book Fair 1",
+      "location": "City Library",
+      "time": "2023-08-25",
+      "place": "Library Atrium",
+      "cost": "Free Admission",
+      "description": "Discover a world of books at our annual book fair.",
+      "category": "Books",
+      "tags": ["Fair", "Reading", "Literature"]
+    },
+    {
+      "title": "Film Screening 1",
+      "location": "Cinema Paradiso",
+      "time": "2023-09-08",
+      "place": "Screen 2",
+      "cost": "$12.50",
+      "description": "Watch an exclusive screening of an award-winning film.",
+      "category": "Movies",
+      "tags": ["Screening", "Award-Winning Film"]
+    },
+    {
+      "title": "Science Symposium 1",
+      "location": "Science Center",
+      "time": "2023-10-30",
+      "place": "Lecture Hall",
+      "cost": "$45.00",
+      "description": "Explore the latest scientific discoveries with renowned scientists.",
+      "category": "Science",
+      "tags": ["Symposium", "Discoveries", "Scientists"]
+    },
+    {
+      "title": "Craft Workshop 1",
+      "location": "Community Center",
+      "time": "2023-11-05",
+      "place": "Craft Room",
+      "cost": "$15.00",
+      "description": "Unleash your creativity at our craft workshop for all ages.",
+      "category": "Crafts",
+      "tags": ["Workshop", "Creativity", "All Ages"]
+    },
+    {
+      "title": "Fashion Show 1",
+      "location": "Fashion Plaza",
+      "time": "2023-12-18",
+      "place": "Runway Stage",
+      "cost": "$30.00",
+      "description": "Experience the latest fashion trends at our glamorous fashion show.",
+      "category": "Fashion",
+      "tags": ["Fashion Show", "Trends", "Glamorous"]
+    },
+    {
+      "title": "Cooking Class 1",
+      "location": "Culinary School",
+      "time": "2023-09-15",
+      "place": "Kitchen Lab",
+      "cost": "$50.00",
+      "description": "Learn to cook gourmet dishes from professional chefs.",
+      "category": "Cooking",
+      "tags": ["Cooking Class", "Gourmet Dishes", "Professional Chefs"]
+    },
+    {
+      "title": "Yoga Retreat 1",
+      "location": "Mountain Retreat Center",
+      "time": "2023-08-31",
+      "place": "Yoga Pavilion",
+      "cost": "$300.00",
+      "description": "Reconnect with nature and your inner self at our yoga retreat.",
+      "category": "Health & Wellness",
+      "tags": ["Yoga Retreat", "Nature", "Inner Self"]
+    },
+    {
+      "title": "Gaming Tournament 1",
+      "location": "Esports Arena",
+      "time": "2023-11-25",
+      "place": "Main Stage",
+      "cost": "$20.00",
+      "description": "Compete against the best gamers and win exciting prizes.",
+      "category": "Gaming",
+      "tags": ["Tournament", "Compete", "Prizes"]
+    },
+    {
+      "title": "Dance Workshop 1",
+      "location": "Dance Studio",
+      "time": "2023-09-03",
+      "place": "Studio 1",
+      "cost": "$15.00",
+      "description": "Learn various dance styles from professional dancers.",
+      "category": "Dance",
+      "tags": ["Workshop", "Dance Styles", "Professional Dancers"]
+    },
+    {
+      "title": "Wine Tasting 1",
+      "location": "Vineyard Estates",
+      "time": "2023-10-20",
+      "place": "Tasting Room",
+      "cost": "$40.00",
+      "description": "Savor exquisite wines at our vineyard tasting event.",
+      "category": "Wine",
+      "tags": ["Tasting", "Exquisite Wines"]
+    },
+    {
+      "title": "Comedy Night 1",
+      "location": "Laugh Club",
+      "time": "2023-12-05",
+      "place": "Comedy Stage",
+      "cost": "$15.00",
+      "description": "Get ready for a night of laughter with top comedians.",
+      "category": "Comedy",
+      "tags": ["Comedy Night", "Laughter", "Comedians"]
+    },
+    {
+      "title": "Photography Workshop 1",
+      "location": "Photography Studio",
+      "time": "2023-11-10",
+      "place": "Studio 2",
+      "cost": "$25.00",
+      "description": "Enhance your photography skills with expert guidance.",
+      "category": "Photography",
+      "tags": ["Workshop", "Photography Skills", "Expert Guidance"]
+    },
+    {
+      "title": "Gardening Expo 1",
+      "location": "Botanical Gardens",
+      "time": "2023-10-08",
+      "place": "Exhibition Hall",
+      "cost": "Free Admission",
+      "description": "Discover the beauty of plants and gardening at our expo.",
+      "category": "Gardening",
+      "tags": ["Expo", "Plants", "Gardening"]
+    },
+    {
+      "title": "Culinary Festival 1",
+      "location": "Food Park",
+      "time": "2023-08-28",
+      "place": "Food Stalls",
+      "cost": "$10.00 (Tasting Pass)",
+      "description": "Taste a variety of culinary delights from around the world.",
+      "category": "Food",
+      "tags": ["Festival", "Culinary Delights", "Tasting Pass"]
+    },
+    {
+      "title": "Rock Concert 1",
+      "location": "Music Arena",
+      "time": "2023-07-30",
+      "place": "Concert Stage",
+      "cost": "$40.00",
+      "description": "Experience the energy of rock music at our epic concert.",
+      "category": "Music",
+      "tags": ["Concert", "Rock Music", "Live Performance"]
+    },
+    {
+      "title": "Music Festival 2",
+      "location": "Central Park",
+      "time": "2023-08-05",
+      "place": "Main Stage",
+      "cost": "$25.00",
+      "description": "Join us for a day of live music in Central Park! A lineup of amazing artists awaits you.",
+      "category": "Music",
+      "tags": ["Festival", "Live Music", "Outdoor Event"]
+    },
+    {
+      "title": "Art Exhibition 2",
+      "location": "Art Gallery",
+      "time": "2023-09-10",
+      "place": "Gallery Hall",
+      "cost": "Free Admission",
+      "description": "Explore the world of contemporary art at our exclusive exhibition.",
+      "category": "Art",
+      "tags": ["Exhibition", "Contemporary Art"]
+    },
+    {
+      "title": "Tech Conference 2",
+      "location": "Tech Center",
+      "time": "2023-10-15",
+      "place": "Conference Hall A",
+      "cost": "$199.99",
+      "description": "Stay updated on the latest tech trends and network with industry experts.",
+      "category": "Technology",
+      "tags": ["Conference", "Tech Trends", "Networking"]
+    },
+    {
+      "title": "Food Festival 2",
+      "location": "Downtown Square",
+      "time": "2023-11-20",
+      "place": "Food Court",
+      "cost": "$10.00 (Tasting Pass)",
+      "description": "Sample a variety of delicious dishes from local chefs at our annual food festival.",
+      "category": "Food",
+      "tags": ["Festival", "Food Tasting", "Local Chefs"]
+    },
+    {
+      "title": "Fitness Workshop 2",
+      "location": "Fitness Studio",
+      "time": "2023-12-25",
+      "place": "Studio 3",
+      "cost": "$35.00",
+      "description": "Get fit and stay healthy with our fitness experts. All fitness levels welcome!",
+      "category": "Fitness",
+      "tags": ["Workshop", "Health", "Fitness Levels"]
+    },
+    {
+      "title": "Book Fair 2",
+      "location": "City Library",
+      "time": "2023-08-01",
+      "place": "Library Atrium",
+      "cost": "Free Admission",
+      "description": "Discover a world of books at our annual book fair.",
+      "category": "Books",
+      "tags": ["Fair", "Reading", "Literature"]
+    },
+    {
+      "title": "Film Screening 2",
+      "location": "Cinema Paradiso",
+      "time": "2023-09-05",
+      "place": "Screen 2",
+      "cost": "$12.50",
+      "description": "Watch an exclusive screening of an award-winning film.",
+      "category": "Movies",
+      "tags": ["Screening", "Award-Winning Film"]
+    },
+    {
+      "title": "Science Symposium 2",
+      "location": "Science Center",
+      "time": "2023-10-10",
+      "place": "Lecture Hall",
+      "cost": "$45.00",
+      "description": "Explore the latest scientific discoveries with renowned scientists.",
+      "category": "Science",
+      "tags": ["Symposium", "Discoveries", "Scientists"]
+    },
+    {
+      "title": "Craft Workshop 2",
+      "location": "Community Center",
+      "time": "2023-11-15",
+      "place": "Craft Room",
+      "cost": "$15.00",
+      "description": "Unleash your creativity at our craft workshop for all ages.",
+      "category": "Crafts",
+      "tags": ["Workshop", "Creativity", "All Ages"]
+    },
+    {
+      "title": "Fashion Show 2",
+      "location": "Fashion Plaza",
+      "time": "2023-12-20",
+      "place": "Runway Stage",
+      "cost": "$30.00",
+      "description": "Experience the latest fashion trends at our glamorous fashion show.",
+      "category": "Fashion",
+      "tags": ["Fashion Show", "Trends", "Glamorous"]
+    },
+    {
+      "title": "Cooking Class 2",
+      "location": "Culinary School",
+      "time": "2023-09-25",
+      "place": "Kitchen Lab",
+      "cost": "$50.00",
+      "description": "Learn to cook gourmet dishes from professional chefs.",
+      "category": "Cooking",
+      "tags": ["Cooking Class", "Gourmet Dishes", "Professional Chefs"]
+    },
+    {
+      "title": "Yoga Retreat 2",
+      "location": "Mountain Retreat Center",
+      "time": "2023-08-01",
+      "place": "Yoga Pavilion",
+      "cost": "$300.00",
+      "description": "Reconnect with nature and your inner self at our yoga retreat.",
+      "category": "Health & Wellness",
+      "tags": ["Yoga Retreat", "Nature", "Inner Self"]
+    }
+  ]
+}
