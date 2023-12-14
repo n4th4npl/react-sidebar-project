@@ -12,6 +12,7 @@ function Layout(props) {
         <Sidebar />
       </div>
       <div>
+        <h1>hey!</h1>
         <Outlet />
       </div>
     </div>

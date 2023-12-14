@@ -4,7 +4,7 @@ import { FaCube, FaCartShopping,FaPeopleGroup,FaBoxArchive  } from "react-icons/
 
 export default function Sidebar() {
   return (
-    <div className="fixed right-28 my-28 w-[15vw]">
+    <div className="absolute right-28 my-28 w-[25%] z-10">
       <div className="border border-gray-200 py-10 px-4 rounded-md shadow-lg">
         <h2 className="text-xl font-bold px-8">Discover</h2>
         <SidebarTab
